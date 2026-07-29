@@ -60,17 +60,6 @@
 
 🌐 **Portfolio Website**
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sruthijakkam26-arch&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthijakkam26-arch&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
