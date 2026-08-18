@@ -106,6 +106,9 @@
 ### ✨ "Keep Learning • Keep Building • Keep Growing"
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
 
-</div>
-https://github-profile-trophy.vercel.app/?username=sruthijakkam26-arch
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sruthijakkam26-arch&show_icons=true&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=sruthijakkam26-arch&hide_border=true" height="180" />
+</p>
