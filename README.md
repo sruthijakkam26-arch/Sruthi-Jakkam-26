@@ -108,8 +108,4 @@
 ⭐ Thanks for visiting my profile!
 
 </div>
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sruthijakkam26-arch&row=1&column=6">
-</p>
+https://github-profile-trophy.vercel.app/?username=sruthijakkam26-arch
